@@ -1,0 +1,7 @@
+body{background-color: lightblue;color: black;text-align: center;}
+.heading{letter-spacing: 10px;border-radius: 10px;width: max-content;text-align: center;align-content: center;padding: 10px;margin-left: 370px;}
+.label{color: green;background-color: white;padding: 5px;font-size: 22px;border-radius: 10px;}
+#Camera{background-color: black;width: 550px;border-radius: 10px;}
+#Result{background-color: black;border-radius: 10px;width: 300px;}
+#Up_1, #Up_2{font-size: 40px;}
+#Result_Ges ,#Result_Ges_2{color: black;font-size: 30px;}
